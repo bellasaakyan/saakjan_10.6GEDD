@@ -31,7 +31,7 @@ TESTI.md
 01_vecuma_grupa.py
 02_reizinasanas_tabula.py
 03_paroles_parbaude.py
-04_summa_lidz_n.py
+
 05_min_un_max.py
 06_lineara_meklesana.py
 07_skaitlu_analizators.py
